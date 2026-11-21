@@ -1,0 +1,37 @@
+# Desk monitor report: 2026-11-20
+
+## 1. Pre-open readiness: PASS
+Rows checked: 56985. Errors: 0.
+
+## 2. Reconciliation: 5 breaks across 23000 orders
+- DUPLICATE_FILL: 1
+- FILL_BEFORE_NEW: 1
+- PRICE_BREACH: 1
+- UNCLOSED: 2
+  - O003348 PRICE_BREACH: fill 101.16 through limit 100.66
+  - O005143 FILL_BEFORE_NEW: fill O005143-F1 precedes its order
+  - O005972 UNCLOSED: 150 shares neither filled nor cancelled
+  - O009773 UNCLOSED: 150 shares neither filled nor cancelled
+  - O009896 DUPLICATE_FILL: fill O009896-F2 booked twice
+
+## 3. Intraday monitoring: 30 alerts over 397 buckets of 100 ms
+- 2023-11-14T22:13:35.000+00:00 msgs ANOMALY value=295 z=9.51
+- 2023-11-14T22:13:35.100+00:00 msgs ANOMALY value=271 z=8.13
+- 2023-11-14T22:13:35.200+00:00 msgs ANOMALY value=336 z=11.87
+- 2023-11-14T22:13:35.300+00:00 msgs ANOMALY value=336 z=11.87
+- 2023-11-14T22:13:35.400+00:00 msgs ANOMALY value=372 z=13.94
+- 2023-11-14T22:13:35.500+00:00 msgs ANOMALY value=312 z=10.49
+- 2023-11-14T22:13:35.600+00:00 msgs ANOMALY value=359 z=13.19
+- 2023-11-14T22:13:35.700+00:00 msgs ANOMALY value=345 z=12.39
+- 2023-11-14T22:13:35.800+00:00 msgs ANOMALY value=362 z=13.36
+- 2023-11-14T22:13:35.900+00:00 msgs ANOMALY value=334 z=11.75
+- 2023-11-14T22:13:36.000+00:00 msgs ANOMALY value=324 z=11.18
+- 2023-11-14T22:13:36.100+00:00 msgs ANOMALY value=339 z=12.04
+- 2023-11-14T22:13:36.200+00:00 msgs ANOMALY value=352 z=12.79
+- 2023-11-14T22:13:36.300+00:00 msgs ANOMALY value=356 z=13.02
+- 2023-11-14T22:13:36.400+00:00 msgs ANOMALY value=343 z=12.27
+- 2023-11-14T22:13:36.500+00:00 msgs ANOMALY value=323 z=11.12
+- 2023-11-14T22:13:36.600+00:00 msgs ANOMALY value=309 z=10.32
+- 2023-11-14T22:13:36.700+00:00 msgs ANOMALY value=323 z=11.12
+- 2023-11-14T22:13:36.800+00:00 msgs ANOMALY value=304 z=10.03
+- 2023-11-14T22:13:36.900+00:00 msgs ANOMALY value=302 z=9.91

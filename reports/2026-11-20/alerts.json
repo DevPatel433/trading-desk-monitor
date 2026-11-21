@@ -1,0 +1,245 @@
+{
+  "buckets": 397,
+  "alerts": [
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.0,
+      "time_utc": "2023-11-14T22:13:35.000+00:00",
+      "value": 295,
+      "z": 9.51
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.1,
+      "time_utc": "2023-11-14T22:13:35.100+00:00",
+      "value": 271,
+      "z": 8.13
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.2,
+      "time_utc": "2023-11-14T22:13:35.200+00:00",
+      "value": 336,
+      "z": 11.87
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.3,
+      "time_utc": "2023-11-14T22:13:35.300+00:00",
+      "value": 336,
+      "z": 11.87
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.4,
+      "time_utc": "2023-11-14T22:13:35.400+00:00",
+      "value": 372,
+      "z": 13.94
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.5,
+      "time_utc": "2023-11-14T22:13:35.500+00:00",
+      "value": 312,
+      "z": 10.49
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.6,
+      "time_utc": "2023-11-14T22:13:35.600+00:00",
+      "value": 359,
+      "z": 13.19
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.7,
+      "time_utc": "2023-11-14T22:13:35.700+00:00",
+      "value": 345,
+      "z": 12.39
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.8,
+      "time_utc": "2023-11-14T22:13:35.800+00:00",
+      "value": 362,
+      "z": 13.36
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 15.9,
+      "time_utc": "2023-11-14T22:13:35.900+00:00",
+      "value": 334,
+      "z": 11.75
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.0,
+      "time_utc": "2023-11-14T22:13:36.000+00:00",
+      "value": 324,
+      "z": 11.18
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.1,
+      "time_utc": "2023-11-14T22:13:36.100+00:00",
+      "value": 339,
+      "z": 12.04
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.2,
+      "time_utc": "2023-11-14T22:13:36.200+00:00",
+      "value": 352,
+      "z": 12.79
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.3,
+      "time_utc": "2023-11-14T22:13:36.300+00:00",
+      "value": 356,
+      "z": 13.02
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.4,
+      "time_utc": "2023-11-14T22:13:36.400+00:00",
+      "value": 343,
+      "z": 12.27
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.5,
+      "time_utc": "2023-11-14T22:13:36.500+00:00",
+      "value": 323,
+      "z": 11.12
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.6,
+      "time_utc": "2023-11-14T22:13:36.600+00:00",
+      "value": 309,
+      "z": 10.32
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.7,
+      "time_utc": "2023-11-14T22:13:36.700+00:00",
+      "value": 323,
+      "z": 11.12
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.8,
+      "time_utc": "2023-11-14T22:13:36.800+00:00",
+      "value": 304,
+      "z": 10.03
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 16.9,
+      "time_utc": "2023-11-14T22:13:36.900+00:00",
+      "value": 302,
+      "z": 9.91
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.0,
+      "time_utc": "2023-11-14T22:13:37.000+00:00",
+      "value": 332,
+      "z": 11.64
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.1,
+      "time_utc": "2023-11-14T22:13:37.100+00:00",
+      "value": 309,
+      "z": 10.32
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.2,
+      "time_utc": "2023-11-14T22:13:37.200+00:00",
+      "value": 344,
+      "z": 12.33
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.3,
+      "time_utc": "2023-11-14T22:13:37.300+00:00",
+      "value": 329,
+      "z": 11.47
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.4,
+      "time_utc": "2023-11-14T22:13:37.400+00:00",
+      "value": 323,
+      "z": 11.12
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.5,
+      "time_utc": "2023-11-14T22:13:37.500+00:00",
+      "value": 355,
+      "z": 12.96
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.6,
+      "time_utc": "2023-11-14T22:13:37.600+00:00",
+      "value": 313,
+      "z": 10.55
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.7,
+      "time_utc": "2023-11-14T22:13:37.700+00:00",
+      "value": 312,
+      "z": 10.49
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.8,
+      "time_utc": "2023-11-14T22:13:37.800+00:00",
+      "value": 320,
+      "z": 10.95
+    },
+    {
+      "metric": "msgs",
+      "kind": "ANOMALY",
+      "t_offset_s": 17.9,
+      "time_utc": "2023-11-14T22:13:37.900+00:00",
+      "value": 307,
+      "z": 10.2
+    }
+  ]
+}

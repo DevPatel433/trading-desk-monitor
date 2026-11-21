@@ -1,0 +1,1 @@
+readiness PASS | breaks=5 alerts=30 | report: /mnt/user-data/outputs/desk-monitor/reports/2026-11-20/report.md

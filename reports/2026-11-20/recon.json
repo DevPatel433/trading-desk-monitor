@@ -1,0 +1,36 @@
+{
+  "orders": 23000,
+  "breaks": [
+    {
+      "kind": "PRICE_BREACH",
+      "order_id": "O003348",
+      "detail": "fill 101.16 through limit 100.66"
+    },
+    {
+      "kind": "FILL_BEFORE_NEW",
+      "order_id": "O005143",
+      "detail": "fill O005143-F1 precedes its order"
+    },
+    {
+      "kind": "UNCLOSED",
+      "order_id": "O005972",
+      "detail": "150 shares neither filled nor cancelled"
+    },
+    {
+      "kind": "UNCLOSED",
+      "order_id": "O009773",
+      "detail": "150 shares neither filled nor cancelled"
+    },
+    {
+      "kind": "DUPLICATE_FILL",
+      "order_id": "O009896",
+      "detail": "fill O009896-F2 booked twice"
+    }
+  ],
+  "by_kind": {
+    "PRICE_BREACH": 1,
+    "FILL_BEFORE_NEW": 1,
+    "UNCLOSED": 2,
+    "DUPLICATE_FILL": 1
+  }
+}
