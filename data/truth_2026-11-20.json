@@ -1,0 +1,22 @@
+[
+  {
+    "kind": "UNCLOSED",
+    "order_id": "O005972"
+  },
+  {
+    "kind": "UNCLOSED",
+    "order_id": "O009773"
+  },
+  {
+    "kind": "DUPLICATE_FILL",
+    "order_id": "O009896"
+  },
+  {
+    "kind": "PRICE_BREACH",
+    "order_id": "O003348"
+  },
+  {
+    "kind": "FILL_BEFORE_NEW",
+    "order_id": "O005143"
+  }
+]
